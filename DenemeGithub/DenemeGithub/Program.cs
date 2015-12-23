@@ -11,6 +11,7 @@ namespace DenemeGithub
         static void Main(string[] args)
         {
             Console.WriteLine("OOPPS");
+            Console.WriteLine("HOOP");
         }
     }
 }
